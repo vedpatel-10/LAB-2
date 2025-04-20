@@ -43,4 +43,16 @@ elif sub3<=44 and sub3>=40:    print("P")
 else:
     print("F")    
     print("You are Failed!")
-    
+
+#OUTPUT:
+# Enter marks of subject 1: 82
+# Enter marks of subject 2: 79
+# Enter marks of subject 3: 80
+# Total marks are: 241
+# Average marks are: 80.33333333333333
+# Grade of subject 1 :
+# O
+# Grade of subject 2 :
+# A+
+# Grade of subject 3 :
+# O    
