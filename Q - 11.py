@@ -17,3 +17,11 @@ if area == 0:
 else :
     print("Points do not fall on straight line")
 
+#OUTPUT:
+# Enter x1: 4
+# Enter y1: 3
+# Enter x2: -4
+# Enter y2: -3
+# Enter x3: 0
+# Enter y3: 0
+# Points fall on one staright line 
