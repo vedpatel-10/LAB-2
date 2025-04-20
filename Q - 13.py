@@ -22,3 +22,6 @@ elif num == 19:    print("nineteen")
 
 else: print("Enter from 0 to 19 only !")
 
+#OUTPUT:
+# Enter a number: 17
+# seventeen
