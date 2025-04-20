@@ -37,3 +37,6 @@ if num>=1000000000 and num<=9999999999:
     
 print("Number of digits:",digit)
 
+#OUTPUT:
+# Enter a number: 232
+# Number of digits: 3
