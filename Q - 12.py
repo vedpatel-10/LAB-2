@@ -18,4 +18,10 @@ elif distance > radius:
 else :
     print("Point lies inside the circle.")
 
-    
+#OUTPUT:
+# Enter the radius: 7
+# Enter X coordinate of centre: 0
+# Enter Y coordinate of centre: 0
+# Enter X coordinate of point: 9
+# Enter Y coordinate of point: -3
+# Point lies outside the circle.    
