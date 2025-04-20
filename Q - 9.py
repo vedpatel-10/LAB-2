@@ -5,3 +5,7 @@ if num == 0 or num >0 :
 else :
     num = -1*num
     print("Absolute value is",num)
+
+#OUTPUT:
+# Enter a number: -34
+# Absolute value is 34    
