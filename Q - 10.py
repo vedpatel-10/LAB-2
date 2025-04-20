@@ -11,3 +11,9 @@ if A>P:
 else:
     print("Perimeter is greater than Area")
 
+#OUTPUT:
+# Enter length of rectangle: 20
+# Enter breadth of rectangle: 12
+# Perimeter of rectangle is 64
+# Area of rectangle is 240
+# Area is greater than Perimeter  
